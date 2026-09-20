@@ -5,3 +5,9 @@
    float dec=6.7;
    return 0;
  }
+ ///hello world
+ #include <stdio.h>
+ int main()
+ {
+  printf("hello world");
+ }
